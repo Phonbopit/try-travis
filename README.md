@@ -1,1 +1,1 @@
-## Try Travis CI
+## Try Travis CI  [![Build Status](https://travis-ci.org/Phonbopit/try-travis.svg?branch=master)](https://travis-ci.org/Phonbopit/try-travis)

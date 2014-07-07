@@ -1,6 +1,10 @@
 {
   "name": "try-travis",
   "description": "learn travis ci the first time",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Phonbopit/try-travis.git"
+  },
   "dependencies": {
     "express": "^4.5.1"
   }
