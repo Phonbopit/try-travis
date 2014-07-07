@@ -1,0 +1,7 @@
+{
+  "name": "try-travis",
+  "description": "learn travis ci the first time",
+  "dependencies": {
+    "express": "^4.5.1"
+  }
+}
